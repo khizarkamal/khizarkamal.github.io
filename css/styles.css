@@ -109,7 +109,6 @@ border-radius: 3rem;
 
 .main-nav__items{
   display: none;
-  align-items: center;
   margin: 0;
 }
 
@@ -126,6 +125,7 @@ border-radius: 3rem;
 
 .main-nav__item > a{
   text-decoration: none;
+  vertical-align: bottom;
 }
 
 .bottom-cloud{
@@ -138,7 +138,10 @@ border-radius: 3rem;
   left:200px;
 }
 
+
+
 .profile img{
+
  width: 13rem;
  height: 13rem; 
  margin: 1.2rem;
